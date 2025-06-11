@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "dogo",
+    "slug": "snack-4bdd2911-c5d7-4420-9512-f6d00db2dfb9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.buratnaburat23.snack4bdd2911c5d744209512f6d00db2dfb"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "adcb7589-fd1e-446a-a9bc-fc0b14941c63"
+      }
+    }
+  }
+}
